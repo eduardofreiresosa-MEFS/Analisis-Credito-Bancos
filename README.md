@@ -1,5 +1,6 @@
 # Analisis-Credito-Bancos
 Code used to analyze ecuadorian financial system.
+
 Modelos de riesgo crediticio para bancos privados del Ecuador
 Este repositorio contiene el notebook y la base de datos utilizados para ejecutar el proceso analítico de la tesis sobre determinantes de la cartera vencida en bancos privados del Ecuador. El flujo incluye limpieza de datos, análisis descriptivo, validación estadística, estimación de un modelo de datos de panel y entrenamiento de un modelo XGBoost para predicción.
 Contenido del repositorio
