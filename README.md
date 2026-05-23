@@ -159,5 +159,7 @@ Análisis de residuos.
 Comparación general entre enfoque explicativo y predictivo.
 Nota metodológica
 El modelo de datos de panel permite interpretar la relación entre variables bancarias y macroeconómicas con la cartera vencida, controlando diferencias estructurales entre bancos. El modelo XGBoost complementa este análisis al capturar relaciones no lineales y mejorar la capacidad predictiva sobre la variable objetivo.
+
 Autor: Milton Eduardo Freire Sosa
+
 Proyecto desarrollado como parte de una tesis de maestría en análisis de datos e inteligencia de negocios, enfocada en riesgo crediticio y morosidad bancaria en Ecuador.
